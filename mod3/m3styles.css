@@ -52,3 +52,9 @@ p {
     color:orange;
     padding-top:10px;
 }
+
+@media (max-width:479px) {
+    #dummytxt {
+        height:fit-content
+    }
+}
